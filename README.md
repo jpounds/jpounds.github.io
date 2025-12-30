@@ -19,8 +19,9 @@ My work emphasizes:
 ## Writing Samples
 > Samples below are purpose-built to mirror modern AI framework documentation.
 
-- **LangChain Concepts Explained** *(conceptual guide)*  
+- **[LangChain Concepts Explained](samples/langchain-concepts.md)** *(conceptual guide)*  
   Explains core LangChain ideas like chains, agents, and tools in plain language.
+
 
 - **How to Build a Simple RAG App** *(how-to guide)*  
   Walks through building a basic RAG pipeline with clear architecture explanations.
