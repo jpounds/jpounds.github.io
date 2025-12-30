@@ -1,13 +1,15 @@
 ## Non‑Technical Writing Samples
 
-- **[Blog Article](main/samples/nontechnical/blog-article.md)** *(general audience article)*  
-  Practical tips for everyday productivity.
+## Non‑Technical Writing Samples
 
-- **[Healthcare Explainer](samples/nontechnical/healthcare-explainer.md)** *(plain‑language explainer)*  
-  Breaks down medical information into easy‑to‑understand parts.
+- **[Blog Article](https://github.com/jpounds/jpounds.github.io/blob/main/samples/nontechnical/blog%20article.md)**  
+  A general audience article on productivity.
 
-- **[User Guide](samples/nontechnical/user-guide.md)** *(step‑by‑step guide)*  
-  Help readers organize their email inbox with clear, actionable steps.
+- **[Healthcare Explainer](https://github.com/jpounds/jpounds.github.io/blob/main/samples/nontechnical/healthcare‑explainer.md)**  
+  Plain‑language breakdown of a healthcare topic.
+
+- **[User Guide](https://github.com/jpounds/jpounds.github.io/blob/main/samples/nontechnical/user‑guide.md)**  
+  Step‑by‑step practical guide.
 
 
 
