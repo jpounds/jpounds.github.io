@@ -20,14 +20,13 @@ My work emphasizes:
 - **[LangChain Concepts Explained](samples/langchain-concepts.md)** *(conceptual guide)*  
   Explains core LangChain ideas like chains, agents, and tools in plain language.
 
-
-- **How to Build a Simple RAG App** *(how-to guide)*  
+- **[How to Build a Simple RAG App](samples/how-to-build-rag.md)** *(how-to guide)*  
   Walks through building a basic RAG pipeline with clear architecture explanations.
 
-- **API Reference-Style Documentation** *(reference)*  
-  Demonstrates parameter tables, examples, and usage patterns.
+- **[LangChain Mini API Reference](samples/langchain-api-reference.md)** *(reference guide)*  
+  Quick overview of key classes used in a RAG pipeline with code examples.
 
-- **Troubleshooting Common AI App Issues** *(support docs)*  
+- **[Troubleshooting Common AI App Issues](samples/troubleshooting.md)** *(support docs)*  
   Covers common failure modes and how to resolve them.
 
 *(Links will be added as samples are published.)*
