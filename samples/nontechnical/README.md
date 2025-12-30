@@ -1,17 +1,11 @@
 # Non‑Technical Writing Samples
 
-This folder contains writing pieces that demonstrate clear, plain‑language communication for general audiences — useful for roles that require documentation beyond code examples.
+This folder contains writing pieces that demonstrate my ability to communicate clearly and engagingly for general audiences. These samples show how I can explain concepts, guide users step‑by‑step, and write articles that are easy to understand without technical jargon.
 
 Included samples:
-- **Understanding Your Prescription Label** – Explains how to read and interpret common prescription directions.
-- **How to Book a Telehealth Appointment** – Plain‑language step‑by‑step guide.
+- **Blog Article** — An engaging article written for a general audience.
+- **Healthcare Explainer** — A plain‑language explanation of a healthcare concept.
+- **User Guide** — A practical, easy‑to‑follow guide for everyday tasks.
 
-Explore the Markdown files in this folder to read each sample.
-
-
-## Non‑Technical Writing Samples
-
-- **[Understanding Your Prescription Label](samples/nontechnical/healthcare‑explainer.md)** *(plain language explainer)*  
-  Breaks down how to read and follow prescription directions — written for patients, not developers.
 
 
