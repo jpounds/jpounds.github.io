@@ -1,6 +1,6 @@
 ## Non‑Technical Writing Samples
 
-- **[Blog Article](samples/nontechnical/blog-article.md)** *(general audience article)*  
+- **[Blog Article](main/samples/nontechnical/blog-article.md)** *(general audience article)*  
   Practical tips for everyday productivity.
 
 - **[Healthcare Explainer](samples/nontechnical/healthcare-explainer.md)** *(plain‑language explainer)*  
