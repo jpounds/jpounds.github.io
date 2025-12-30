@@ -30,7 +30,7 @@ texts = splitter.split_documents(documents)
 
 ```
 
-### 2. Creat Embeddings & Vector Store
+### 2. Create Embeddings & Vector Store
 ```python
 from langchain.embeddings.openai import OpenAIEmbeddings
 from langchain.vectorstores import FAISS
