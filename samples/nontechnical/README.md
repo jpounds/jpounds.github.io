@@ -14,6 +14,4 @@ Explore the Markdown files in this folder to read each sample.
 - **[Understanding Your Prescription Label](samples/nontechnical/healthcare‑explainer.md)** *(plain language explainer)*  
   Breaks down how to read and follow prescription directions — written for patients, not developers.
 
-- **[Your Other Sample Title](samples/nontechnical/blog‑article.md)** *(general audience)*  
-  Short description of what this piece covers.
 
