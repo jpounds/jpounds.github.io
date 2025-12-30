@@ -1,5 +1,3 @@
-# jpounds.github.io
-Technical writing portfolio focused on AI developer documentation.
 # Hi, I'm Jalyn Pounds
 
 I'm a technical writer focused on AI and developer documentation. I specialize in turning complex systems into clear, practical docs that help developers build confidently.
