@@ -1,6 +1,6 @@
 ## Non‑Technical Writing Samples
 
-## Non‑Technical Writing Samples
+(Links broken)
 
 - **[Blog Article](https://github.com/jpounds/jpounds.github.io/blob/main/samples/nontechnical/blog%20article.md)**  
   A general audience article on productivity.
