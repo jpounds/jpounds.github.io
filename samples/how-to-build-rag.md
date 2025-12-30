@@ -28,14 +28,24 @@ documents = loader.load()
 splitter = CharacterTextSplitter(chunk_size=1000, chunk_overlap=100)
 texts = splitter.split_documents(documents)
 
+```
+
+### 2. Creat Embeddings & Vector Store
+```python
 from langchain.embeddings.openai import OpenAIEmbeddings
 from langchain.vectorstores import FAISS
 
 embeddings = OpenAIEmbeddings()
 vectorstore = FAISS.from_documents(texts, embeddings)
+```
 
+### 3. Set Up Retriever 
+```python
 retriever = vectorstore.as_retriever(search_type="similarity", k=5)
+```
 
+### 4. Query the LLM 
+```python
 from langchain.chains import RetrievalQA
 from langchain.chat_models import ChatOpenAI
 
@@ -47,6 +57,7 @@ qa_chain = RetrievalQA.from_chain_type(
 query = "What is Retrieval-Augmented Generation?"
 answer = qa_chain.run(query)
 print(answer)
+```
 
 
----
+
