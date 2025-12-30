@@ -50,19 +50,3 @@ print(answer)
 
 
 ---
-
-## 3️⃣ Commit the File
-
-- Click **Commit changes**
-- Default message is fine
-
----
-
-## 4️⃣ Next Step After Saving
-
-- Link it in your README just like we did for the concept doc  
-- The bullet in your README should look like this:
-
-```markdown
-- **[How to Build a Simple RAG App](samples/how-to-build-rag.md)** *(how-to guide)*  
-  Walks through building a basic RAG pipeline with clear architecture explanations.
